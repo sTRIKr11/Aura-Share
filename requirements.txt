@@ -1,0 +1,8 @@
+mediapipe==0.10.21
+customtkinter
+opencv-python==4.11.0.86
+numpy>=1.26,<2
+zeroconf
+cryptography
+pillow
+pywinstyles

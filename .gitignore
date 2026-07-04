@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+*.spec.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temp / staging files
+AuraShare_Staging/
+
+# Distribution (keep .exe out of git — use GitHub Releases instead)
+*.exe
